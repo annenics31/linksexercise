@@ -1,0 +1,45 @@
+#menubar {
+	height: 100px;
+	background-color: #ffe6e6;
+}
+#mainbody {
+	height: 800px;
+	background-color: #000000;
+}
+#footer {
+	height: 100px;
+	background-color: #ffe6e6;
+}
+#site {
+	line-height: 90px;
+	color: #4d4d4d;
+	padding-left: 20px;
+	font-size: 50px;
+
+}
+#cinema {
+	color: #4d4d4d;
+	line-height: 1px;
+	text-align: right;
+	padding-right: 300px; 
+
+
+}
+#dvd {
+	color: #4d4d4d;
+	line-height: 0px;
+	text-align: right;
+	padding-right: 250px; 
+}
+#reviews {
+	color: #4d4d4d;
+	line-height: 0px;
+	text-align: right;
+	padding-right: 175px; 
+}
+#theatre {
+	color: #4d4d4d;
+	line-height: 0px;
+	text-align: right;
+	padding-right: 110px; 
+}
